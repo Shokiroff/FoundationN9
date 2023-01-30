@@ -1,0 +1,1 @@
+print("Bularga ish buyursang . . . ")
